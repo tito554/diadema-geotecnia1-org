@@ -1,0 +1,41 @@
+# Geotecnia1 — Diadema
+
+> Geotechnical engineering services in Diadema, Brasil.
+
+## Services
+- [Ancoragens](https://diadema.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://diadema.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://diadema.geotecnia1.org/colunas-brita/)
+- [Ensaio Cpt](https://diadema.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://diadema.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://diadema.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://diadema.geotecnia1.org/escavacoes-profundas/)
+- [Estacas](https://diadema.geotecnia1.org/estacas/)
+- [Fundacoes](https://diadema.geotecnia1.org/fundacoes/)
+- [Geofisica](https://diadema.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://diadema.geotecnia1.org/geotecnia-viaria/)
+- [Injecoes](https://diadema.geotecnia1.org/injecoes/)
+- [Investigacao](https://diadema.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://diadema.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://diadema.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://diadema.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://diadema.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://diadema.geotecnia1.org/liquefacao/)
+- [Masw](https://diadema.geotecnia1.org/masw/)
+- [Melhoramento](https://diadema.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://diadema.geotecnia1.org/microzoneamento-sismico/)
+- [Muros Contencao](https://diadema.geotecnia1.org/muros-contencao/)
+- [Permeabilidade In Situ](https://diadema.geotecnia1.org/permeabilidade-in-situ/)
+- [Refracao Sismica](https://diadema.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://diadema.geotecnia1.org/resistividade/)
+- [Sapatas](https://diadema.geotecnia1.org/sapatas/)
+- [Sismica](https://diadema.geotecnia1.org/sismica/)
+- [Taludes](https://diadema.geotecnia1.org/taludes/)
+- [Triaxial](https://diadema.geotecnia1.org/triaxial/)
+
+## Contact
+- Website: https://diadema.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Diadema, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
